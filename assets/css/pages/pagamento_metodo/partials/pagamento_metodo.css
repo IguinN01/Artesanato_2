@@ -1,0 +1,29 @@
+.bloco_pagameto {
+  padding-inline: 1.5rem;
+}
+
+.total_pedido {
+  margin-top: 1.5rem;
+}
+
+.metodo_titulo {
+  margin-top: 2rem;
+  margin-bottom: 0;
+  font-size: 1.5rem;
+}
+
+.div__continuar {
+  margin-top: 2rem;
+}
+
+.iten__envio {
+  display: flex;
+  align-items: center;
+}
+
+.img_metodo {
+  width: 2rem;
+  height: 2rem;
+  margin-right: .5rem;
+}
+

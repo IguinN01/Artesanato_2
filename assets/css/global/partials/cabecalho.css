@@ -1,0 +1,12 @@
+.cabecalho {
+	padding-inline: 1rem;
+	background: var(--branco);
+}
+
+.cabecalho__nav {
+	justify-content: space-between;
+	margin-inline: auto;
+	align-items: center;
+	display: flex;
+	height: 5rem;
+}
